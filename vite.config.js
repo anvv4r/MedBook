@@ -9,8 +9,8 @@ export default ({ mode }) => {
         plugins: [
             laravel({
                 input: [
-                    "resources/css/app.css",
-                    "resources/css/styles.scss",
+                    "resources/css/app.scss",
+                    "resources/css/style.scss",
                     "resources/js/app.js",
                     // "resources/js/latest-books.js",
                     // "resources/js/book-search.js",
